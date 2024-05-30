@@ -7,3 +7,5 @@ Zrzuty ekranu z przykładowego działania
 ![2](https://github.com/vaderek22/safechatapp/assets/42940388/2e5c8104-c973-446a-811f-60f02fc351ad)
 
 ![4](https://github.com/vaderek22/safechatapp/assets/42940388/04eab976-208c-4e20-8e5d-fe66e766b1b2)
+
+![5](https://github.com/vaderek22/safechatapp/assets/42940388/20af8cf5-3842-42b0-821c-88d69e146abb)
